@@ -1,0 +1,1 @@
+# system-instructions-for-google-ai-studio-when-using-coding-assistant-in-VS-code-for-implementation
